@@ -8,7 +8,7 @@ const input = document.querySelector('input')
 const heading = document.getElementById('h1')
 const paragraph = document.getElementById('p')
 
-console.log("javaScript loaded");
+
 
 form.addEventListener('submit', (e) => {
     e.preventDefault()
